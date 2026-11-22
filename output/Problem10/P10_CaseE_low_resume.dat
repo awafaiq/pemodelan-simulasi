@@ -1,0 +1,2 @@
+Scenario	Replication	[Q1].QueueLengthAverage		[Q1].AverageQueueTime / 1[min]		[Out].NumberAdded		[MachineUp].ClosedFraction		[Repair].NumberProcessed		[DownHit].NumberProcessed		[DownHit].NumberProcessed / ( [Out].NumberAdded )		[DownHit].SampleAverage / 1[min]		[SvcStat].SampleAverage / 1[min]		[Out].NumberAdded / ( 100000[min] / 1[h] )	
+1	1	0.49875		4.987998799879988		9999.0		0.0475		95.0		0.0		0.0		NaN		7.5		5.9994	
